@@ -8,3 +8,5 @@ spring:
     url: jdbc:postgresql://localhost:5432/article_comments
     user: postgres
     password: postgres
+server:
+  port: 8081
